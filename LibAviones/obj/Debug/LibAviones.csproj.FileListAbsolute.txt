@@ -1,0 +1,12 @@
+C:\Users\Alternativa\Desktop\TP Investigacion system object\PracticaIndividualObject\LibAviones\bin\Debug\LibAviones.dll
+C:\Users\Alternativa\Desktop\TP Investigacion system object\PracticaIndividualObject\LibAviones\bin\Debug\LibAviones.pdb
+C:\Users\Alternativa\Desktop\TP Investigacion system object\PracticaIndividualObject\LibAviones\obj\Debug\LibAviones.csproj.AssemblyReference.cache
+C:\Users\Alternativa\Desktop\TP Investigacion system object\PracticaIndividualObject\LibAviones\obj\Debug\LibAviones.csproj.CoreCompileInputs.cache
+C:\Users\Alternativa\Desktop\TP Investigacion system object\PracticaIndividualObject\LibAviones\obj\Debug\LibAviones.dll
+C:\Users\Alternativa\Desktop\TP Investigacion system object\PracticaIndividualObject\LibAviones\obj\Debug\LibAviones.pdb
+C:\Users\Alternativa\Desktop\Trabajos ordenados\1 - Programación Web NET Core\4 - TP Investigacion system object\PracticaIndividualObject\LibAviones\bin\Debug\LibAviones.dll
+C:\Users\Alternativa\Desktop\Trabajos ordenados\1 - Programación Web NET Core\4 - TP Investigacion system object\PracticaIndividualObject\LibAviones\bin\Debug\LibAviones.pdb
+C:\Users\Alternativa\Desktop\Trabajos ordenados\1 - Programación Web NET Core\4 - TP Investigacion system object\PracticaIndividualObject\LibAviones\obj\Debug\LibAviones.csproj.AssemblyReference.cache
+C:\Users\Alternativa\Desktop\Trabajos ordenados\1 - Programación Web NET Core\4 - TP Investigacion system object\PracticaIndividualObject\LibAviones\obj\Debug\LibAviones.csproj.CoreCompileInputs.cache
+C:\Users\Alternativa\Desktop\Trabajos ordenados\1 - Programación Web NET Core\4 - TP Investigacion system object\PracticaIndividualObject\LibAviones\obj\Debug\LibAviones.dll
+C:\Users\Alternativa\Desktop\Trabajos ordenados\1 - Programación Web NET Core\4 - TP Investigacion system object\PracticaIndividualObject\LibAviones\obj\Debug\LibAviones.pdb
