@@ -1,4 +1,5 @@
-﻿using LibAviones.Models;
+﻿using LibAviones.Entidades;
+using LibAviones.Models;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -26,10 +27,8 @@ namespace Presentacion
             avion1.Azafata = "Juliana";
             avion1.Capacidad = 150;
             avion1.LineaAerea = "Flybondi";
-            avion1.Aterriza("México");
-            avion1.Despega("Argentina");
 
-            MessageBox.Show(avion1.ToString());
+            MessageBox.Show(avion1.ToString() + "\n" + avion1.Despega("Argentina") + "\n" + avion1.Aterriza("México")); 
         }
 
         private void avionComercial_SelectedIndexChanged(object sender, EventArgs e)
@@ -51,10 +50,10 @@ namespace Presentacion
             avion2.Azafata = "Mariela";
             avion2.Peso = 1345.89;
             avion2.TipoMercaderia = "Aceitunas en conserva";
-            avion2.Despega("Argentina");
-            avion2.Aterriza("Panamá");
+            
+            
 
-            MessageBox.Show(avion2.ToString());
+            MessageBox.Show(avion2.ToString() + "\n" + avion2.Despega("Argentina") + "\n" + avion2.Aterriza("Panamá"));
         }
     }
 }

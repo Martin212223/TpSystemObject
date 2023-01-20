@@ -26,3 +26,17 @@ C:\Users\Alternativa\Desktop\Trabajos ordenados\1 - Programación Web NET Core\4
 C:\Users\Alternativa\Desktop\Trabajos ordenados\1 - Programación Web NET Core\4 - TP Investigacion system object\PracticaIndividualObject\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
 C:\Users\Alternativa\Desktop\Trabajos ordenados\1 - Programación Web NET Core\4 - TP Investigacion system object\PracticaIndividualObject\Presentacion\obj\Debug\Presentacion.exe
 C:\Users\Alternativa\Desktop\Trabajos ordenados\1 - Programación Web NET Core\4 - TP Investigacion system object\PracticaIndividualObject\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Alternativa\Desktop\Control trabajos\4 - TpSystemObject-master\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Alternativa\Desktop\Control trabajos\4 - TpSystemObject-master\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Alternativa\Desktop\Control trabajos\4 - TpSystemObject-master\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Alternativa\Desktop\Control trabajos\4 - TpSystemObject-master\Presentacion\bin\Debug\LibAviones.dll
+C:\Users\Alternativa\Desktop\Control trabajos\4 - TpSystemObject-master\Presentacion\bin\Debug\LibAviones.pdb
+C:\Users\Alternativa\Desktop\Control trabajos\4 - TpSystemObject-master\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Alternativa\Desktop\Control trabajos\4 - TpSystemObject-master\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alternativa\Desktop\Control trabajos\4 - TpSystemObject-master\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\Alternativa\Desktop\Control trabajos\4 - TpSystemObject-master\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Alternativa\Desktop\Control trabajos\4 - TpSystemObject-master\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Alternativa\Desktop\Control trabajos\4 - TpSystemObject-master\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Alternativa\Desktop\Control trabajos\4 - TpSystemObject-master\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\Alternativa\Desktop\Control trabajos\4 - TpSystemObject-master\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Alternativa\Desktop\Control trabajos\4 - TpSystemObject-master\Presentacion\obj\Debug\Presentacion.pdb
